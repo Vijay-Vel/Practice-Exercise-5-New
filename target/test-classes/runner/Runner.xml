@@ -1,0 +1,9 @@
+<suite name="testsuite" verbose="1" parallel="tests">
+
+<test name="MyFramework">
+<classes>
+<class name="tests.LoginTest">
+</class>
+</classes>
+</test>
+</suite>
