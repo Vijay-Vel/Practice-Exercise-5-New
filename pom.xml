@@ -53,10 +53,5 @@
     <artifactId>poi-ooxml-schemas</artifactId>
     <version>4.1.1</version>
 </dependency>
-  	<dependency>
-  		<groupId>Phase2TestNg</groupId>
-  		<artifactId>Phase2TestNg</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
 </project>
